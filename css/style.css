@@ -1,7 +1,8 @@
 @media (max-width: 600) {
   img {
-    margin-right: 20px;
-    width: 120px;
+    display: flex;
+    justify-content: center;
+    width: 80px;
   }
 }
 

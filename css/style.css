@@ -1,7 +1,7 @@
 @media (max-width: 600) {
   img {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     width: 80px;
   }
 }

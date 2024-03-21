@@ -1,8 +1,14 @@
 @media (max-width: 600) {
   img {
-    display: block;
-    margin: 0 auto;
-    width: 200px;
+    margin: 20px;
+    width: 150px;
+  }
+  body {
+    background-color: peachpuff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
   }
 }
 
